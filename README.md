@@ -2,7 +2,7 @@
 
 Let's redo what we accomplished in [w04d02-HW](https://git.generalassemb.ly/seir-alahsa/w04d02-HW-API) using react and axios!
 
-### Step 1: `npm install` 
+### Step 1: `npm install` , `npm install axios`
 ### Step 2: import what you need from react and axois to solve this homework
 
 Hint: check the comments in `App.js`
