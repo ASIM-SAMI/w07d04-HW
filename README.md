@@ -2,11 +2,12 @@
 
 Let's redo what we accomplished in [w04d02-HW](https://git.generalassemb.ly/seir-alahsa/w04d02-HW-API) using react and axios!
 
-### Step 1: import what you need from react and axois to solve this homework
+### Step 1: `npm install` 
+### Step 2: import what you need from react and axois to solve this homework
 
 Hint: check the comments in `App.js`
 
-### Step 2: Choose an API to work with
+### Step 3: Choose an API to work with
 
 - [Rick and Morty API](https://rickandmortyapi.com/)
 
@@ -28,13 +29,13 @@ Read the documentation of the studio ghibli api and display the title and descri
 
 ![](images/ss1.png)
 
-### Step 3: inside `useEffect()`, Define your get requests with `axios.get(url)`
+### Step 4: inside `useEffect()`, Define your get requests with `axios.get(url)`
 
-### Step 4: handle the responses with `.then()` and set your App state
+### Step 5: handle the responses with `.then()` and set your App state
 
-### Step 5: create your components and send in the data as props
+### Step 6: create your components and send in the data as props
 
-### Step 6: Add styling to your react application
+### Step 7: Add styling to your react application
 
 ### Bonus
 
